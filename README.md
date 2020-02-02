@@ -1,2 +1,0 @@
-# Npmthreejs
-Created with CodeSandbox

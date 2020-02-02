@@ -1,0 +1,19 @@
+body {
+  background-color: #242B2D;
+  color: floralwhite;
+  font-family: sans-serif;
+}
+
+.App {
+
+  text-align: center;
+}
+
+.ReactModal__Overlay {
+  background-color: rgba(109, 108, 108, 0.24) !important;
+}
+.ReactModal__Content {
+  background-color: #3a4549 !important;
+  border: none !important;
+  box-shadow: 4px 5px 20px -1px rgba(0,0,0,0.63);
+}
